@@ -717,7 +717,7 @@ namespace MonoMac.CorePlot {
 		[Export ("newAxisSet")]
 		CPTAxisSet NewAxisSet ();
 
-		[Export ("legent")]
+		[Export ("legend")]
 		CPTLegend Legend { get; set; }
 
 		[Export ("legendAnchor")]
